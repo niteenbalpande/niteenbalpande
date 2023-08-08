@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **React.JS, expressJS, NodeJS, Web3.0, DeFi, Solidity, Smart-Contract, Hardhat**
 
-- 📫 How to reach me **niteenbalpande@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/niteenbalpande/](https://www.linkedin.com/in/niteenbalpande/)
 
 <h3 align="left">Connect with me:</h3>
