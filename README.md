@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niteenbalpande&label=Profile%20views&color=0e75b6&style=flat" alt="niteenbalpande" /> </p>
 
-- 💬 Ask me about **React.JS, expressJS, NodeJS, Web3.0, DeFi, Solidity, Smart-Contract, Hardhat**
+- 💬 Ask me about **React.JS, expressJS, NodeJS, Blockchain, Web3.0, DeFi, Solidity, Smart-Contract, Hardhat**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/niteenbalpande/](https://www.linkedin.com/in/niteenbalpande/)
 
