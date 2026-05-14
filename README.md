@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niteen Balpande</h1>
+<h1 align="center">Hi 👋, I'm Niteen</h1>
 
 <h3 align="center">
 Founder & CEO @ NitSync • Senior Software Engineer • Full-Stack, AI & Blockchain Solutions
